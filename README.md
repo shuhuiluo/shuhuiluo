@@ -1,6 +1,6 @@
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shuhuiluo&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuhuiluo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-bot-omega.onrender.com/stats/streak?username=shuhuiluo&theme=dark)](https://github.com/HereNotThere/github-bot)
+[![Top Langs](https://github-bot-omega.onrender.com/stats/top-langs?username=shuhuiluo&layout=compact&theme=vision-friendly-dark)](https://github.com/HereNotThere/github-bot)
 
 ---
